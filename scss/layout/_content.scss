@@ -1,0 +1,50 @@
+.intro {
+	margin: 35px auto 0;
+}
+
+.intro img {
+	display: block;
+	width: 75%;
+	margin: auto;
+}
+
+.intro p {
+	width: 90%;
+	margin: auto;
+	padding: 30px 0 30px 0;
+	line-height: 1.25em;
+	font-size: 1.1rem;
+}
+
+/**********
+	Main Content
+**********/
+.portfolio h2 {
+	text-align: center;
+	padding: 35px;
+	margin: 0;
+	font-size: 1.35rem;
+}
+
+.container {
+	background-color: #fff;
+}
+
+.mainContent img {
+	max-width: 85%;
+	margin: auto;
+	display: block;
+}
+
+.mainContent h3 {
+	text-align: center;
+	padding: 10px;
+	font-size: 1.25rem;
+}
+
+.mainContent p {
+	width: 80%;
+	margin: auto;
+	padding: 0 0 35px 0;
+	font-size: 1.1rem;
+}

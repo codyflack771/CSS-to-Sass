@@ -1,0 +1,27 @@
+.header h1 {
+	text-align: center;
+	margin: 20px;
+	padding: 0;
+	letter-spacing: 1px;
+	font-size: 2rem;
+}
+
+.header ul {
+	list-style-type: none;
+	margin: 0 auto;
+	padding: 0;
+	width: 90%;
+}
+
+.header li {
+	background-color: #fff;
+	padding: 10px;
+	margin: 5px 0;
+}
+
+.header a {
+	display: inline-block;
+	width: 100%;
+	text-align: center;
+	font-size: 1.2rem;
+}
